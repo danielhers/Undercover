@@ -1,5 +1,5 @@
 module.exports = {
-    PORT: 9876,
+    PORT: process.env.PORT || 9876,
 
     NUM_PLAYERS: 1,
     NUM_ROUNDS: 15,
