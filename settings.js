@@ -1,7 +1,7 @@
 module.exports = {
     PORT: process.env.PORT || 9876,
 
-    NUM_PLAYERS: 1,
+    NUM_PLAYERS: 4,
     NUM_ROUNDS: 15,
 
     PLAYER_INIT_ITEMS: 2,
